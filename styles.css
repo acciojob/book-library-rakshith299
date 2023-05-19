@@ -29,13 +29,13 @@
 .price{
 	text-align: center;
 	background-color: rgb(46, 204, 113);
-	color: white;
+	color: rgb(255, 255, 255);
 	padding: 5px;
 	border-radius: 8px;
 }
 
 .auth{
-	color: #777777;
+	color: rgb(119, 119, 119);
 	font-size: 12px;
 }
 
