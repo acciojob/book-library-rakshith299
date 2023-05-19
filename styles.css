@@ -29,7 +29,7 @@
 .price_background{
 	text-align: center;
 	background-color: rgb(46, 204, 113);
-	color: rgb(255, 255, 255);
+	color: white;
 	padding: 5px;
 	border-radius: 8px;
 }
